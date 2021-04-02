@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/DrawableShape.h
+vector
+-
+
+/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/Figures/Circle.cpp
+Circle.h
+/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/Figures/Circle.h
+
+/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/Figures/Circle.h
+../DrawableShape.h
+/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/DrawableShape.h
+
