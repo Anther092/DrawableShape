@@ -10,11 +10,19 @@
 vector
 -
 
-/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/Figures/Circle.cpp
-Circle.h
-/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/Figures/Circle.h
-
 /Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/Figures/Circle.h
 ../DrawableShape.h
 /Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/DrawableShape.h
+
+/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/Figures/Rectangle.h
+../DrawableShape.h
+/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/DrawableShape.h
+
+/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/main.cpp
+iostream
+-
+Figures/Rectangle.h
+/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/Figures/Rectangle.h
+Figures/Circle.h
+/Users/anther/ProgrammingProjects/CLionProjects/univerProjects/DrawShapes/Figures/Circle.h
 

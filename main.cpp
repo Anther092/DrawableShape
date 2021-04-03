@@ -4,7 +4,7 @@
 
 int main() {
 
-    DrawableShape *r = new Circle(15, '@', '#', 4);
+    DrawableShape *r = new Circle(15, '@', '.', 5);
     r->draw();
 
     return 0;
